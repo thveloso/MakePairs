@@ -17,7 +17,7 @@ def draw():
         print('A quantidade de elementos das duas lista tem que ser igual')
          
 def teste():
-    p = input("Coloque o numero de pessoas,ele tem que ser par!!:"+'\n')
+    p = input("Coloque o numero de pessoas,ele tem que ser par!!: ")
     for j in range(0,int(p)):
         listaP.append(input())
         
